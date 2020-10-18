@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E.1.1</string>
+    <string name="csc_jesuitasrioja_org">csc@jesuitasrioja.org</string>
+    <string name="duques_de_n_jera_18_26002_logro_o">18 Duques de Nájera St, Logroño 26002</string>
+    <string name="_941_22_17_00">941 22 17 00</string>
+    <string name="centro_sagrado_coraz_n_logro_o">Sagrado Corazón Logroño School</string>
+    <string name="logo">jesuitas logo</string>
+    <string name="loc_icon">location icon</string>
+    <string name="let_icon">letter icon</string>
+    <string name="mob_icon">mobile icon</string>
+    <string name="like">like icon</string>
+    <string name="liki">I like it!</string>
+</resources>

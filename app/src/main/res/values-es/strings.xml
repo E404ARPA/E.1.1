@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+El número y correo no lo traduzco porque tampoco hay mucho que traducir ahí, y la traducción
+en los otros 2 apartados es un poco forzada a mi parecer pero bueno, para que se note al
+menos un cambio cuando se aplique un idioma u otro. Una traducción rancia poniendo school
+y otra cambiando el orden a como se usa en otros sitios según la siguiente fuente: yo mirando
+en google maps a las 00:20 de la noche en vez de estar en la cama.
+-->
+<resources>
+    <string name="app_name">E.1.1</string>
+    <string name="csc_jesuitasrioja_org">csc@fdshgfdgdfg.org</string>
+    <string name="duques_de_n_jera_18_26002_logro_o">C/ Duques de Nájera 18, 26002 Logroño</string>
+    <string name="_941_22_17_00">941 22 17 00</string>
+    <string name="centro_sagrado_coraz_n_logro_o">Centro Sagrado Corazón Logroño</string>
+    <string name="logo">logo de jesuitas</string>
+    <string name="loc_icon">icono de localización</string>
+    <string name="let_icon">icono de carta</string>
+    <string name="mob_icon">icono de movil</string>
+    <string name="like">icono de me gusta</string>
+    <string name="liki">Me gusta!</string>
+</resources>
